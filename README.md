@@ -58,4 +58,15 @@ npm i -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslin
   }
 }
 ```
-### 5. Restart vscode to load changes
+
+### 5. Create new file `.prettierrc` with the below config
+``` javascript
+{
+    "singleQuote": true,
+    "tabWidth": 4,
+    "semi": true,
+    "trailingComma": "all",
+    "useTabs": false
+}
+```
+### 6. Restart vscode to load changes
