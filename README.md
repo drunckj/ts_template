@@ -1,13 +1,13 @@
-# Steps to enable formatting ts,js,jsx,tsx etc on manual save as well as autosave with eslint, typescript and prettier which formats document on manual save as well as autosave
+# Setting up Code Formatting with ESLint, TypeScript, and Prettier in Visual Studio Code
 
-Follow these steps to set up your environment for working with the project.
+Ensure your code is consistently formatted in Visual Studio Code by following these steps.
 
 ### 1. Install VS Code Extensions
 
 To enhance your development experience, install the following extensions in Visual Studio Code:
 
-- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [Format on auto save](https://marketplace.visualstudio.com/items?itemName=BdSoftware.format-on-auto-save)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) : Prettier will help format your code automatically.
+- [Format on auto save](https://marketplace.visualstudio.com/items?itemName=BdSoftware.format-on-auto-save) : This extension enables code formatting on auto-save.
 
 ### 2. Configure VS Code for Auto Formatting
 
